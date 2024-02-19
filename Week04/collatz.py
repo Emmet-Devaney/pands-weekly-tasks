@@ -1,5 +1,5 @@
 #A positive interger will be inputed
-#if the input is positive, the number wil be divided by 2
+#if the input is even, the number wil be divided by 2
 #if the number is odd it will be multiplied by 3 and 1 will be added
 #the sequence will end once the sequence reaches 1
 
